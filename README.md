@@ -46,7 +46,7 @@ Alt attributes added to all images to improve accessibility.
 Consolidated CSS classes with identical styles to optimize loading of page and to better organize code.
 Optimized code structuring i.e. indentation and spacing.
 
-##Links
+## Links
 
 Deployed Site:
 https://vithursan6.github.io/Horiseon/
@@ -56,12 +56,12 @@ https://github.com/Vithursan6/Horiseon
 
 
 
-##Screenshot
+## Screenshot
 
 ![screenshot](https://vithursan6.github.io/Horiseon/assets/images/screenshot.jpg)
 
 
-##License
+## License
 
 MIT License
 
