@@ -58,7 +58,7 @@ https://github.com/Vithursan6/Horiseon
 
 ##Screenshot
 
-![screenshot](https://vithursan6.github.io/Horiseon/assets/images/screenshot.png)
+# <img alt="screenshot" src="https://vithursan6.github.io/Horiseon/assets/images/screenshot.png">
 
 
 ##License
